@@ -65,3 +65,5 @@ This plugin was created with the assistance of an AI collaborator.
 ## License
 
 This project is open-source and distributed under the [MIT License](LICENSE).
+
+Authors: Alessandro Pavan, Paolo Paganini, Michele Potleca
